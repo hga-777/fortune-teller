@@ -7,5 +7,7 @@ elif mood == "sad":
     print("💧 Your fortune: Tough times don't last, but tough people do.")
 elif mood == "neutral":
     print("🌤️ Your fortune: Calm days ahead, stay focused and grounded.")
+elif mood == "stressed":
+    print("💆 Take a deep breath, Hritik. Peace is on its way. 💆")
 else:
     print("🤔 Sorry, I don't understand that mood.")
